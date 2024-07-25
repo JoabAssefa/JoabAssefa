@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Computer Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Computer Engineering](https://ju.edu.et/) at the University of Jimma, Ethiopia<br/>
-💭 Currently learning more about programming and looking for more opportunities to grow as a software engineer.<br/>
+💭 Currently learning more about programming and looking for more opportunities to level up my career as a software engineer.<br/>
 
 
 
